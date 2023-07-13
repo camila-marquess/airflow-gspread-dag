@@ -1,0 +1,6 @@
+/logs
+**/*.pyc
+/Lib
+/myenv
+credentials.json
+*ipynb
