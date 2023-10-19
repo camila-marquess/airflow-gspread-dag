@@ -11,6 +11,7 @@ This project was constructed in order to create an Airflow DAG to send data to a
 
 In order to use this project, you have to create your own Google Service Account on [Google Cloud Platform](https://console.cloud.google.com/). 
 
+
 ## 3. Installation
 
 You can clone this repository using the code below: 
@@ -34,3 +35,5 @@ In order to stop the containers, you can run:
 ```
 docker-compose down
 ```
+
+If you prefer, I've explained all the installation process with more details here: [Gspread in Airflow](https://medium.com/@camila-marquess/gspread-in-airflow-3728abe4b617).
